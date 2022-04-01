@@ -1,2 +1,0 @@
-# interviewPrep
-Interview coding question
